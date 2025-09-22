@@ -1,6 +1,5 @@
 # Car-Salesman-Invoice
 Java program program that calculates a car purchase invoice, including tax, fees, and totals, with formatted output.
-# Car Salesman Invoice
 
 ## Overview
 A Java program that calculates the total cost of purchasing a car.  
